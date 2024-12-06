@@ -1,1 +1,1 @@
-console.log('config.js version2');
+console.log('config.js version12');
